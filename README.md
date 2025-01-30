@@ -1,6 +1,6 @@
 # Mikaeel Gamieldien - Junior FullStack JavaScript Engineer
 Mikaeel.Gamieldien@gmail.com
-
+Linkdin ([Linkdin](https://www.linkedin.com/in/mikaeel-gamieldien-352903275/))
 Dedicated and professional team player with a strong academic background. Highly self-motivated, with the ability to manage independent projects efficiently and collaborate effectively within a team. Continuously eager to learn new skills and technologies.
 
 ## Education
@@ -39,9 +39,9 @@ Skills: JavaScript, Fullstack JavaScript, NoSQL databases, API use and creation,
 ## Projects
 **JavaScript Frameworks Project**  
 A Firebase project where I coded and recoded the same project three times in different frameworks:  
-- Alpine.js ([GitHub Link](#))
-- Svelte.js ([GitHub Link](#))
-- Final recreation with Firebase API interactions using Vue.js ([GitHub Link](#))
+- Alpine.js ([GitHub Link](https://github.com/K0BraKhan33/Module_2_MIKGAM156_JSE2407_D_Mikaeel-Gamieldien_JSF01))
+- Svelte.js ([GitHub Link](https://github.com/K0BraKhan33/Module_3_MIKGAM156_JSE2407_D_Mikaeel-Gamieldien_JSF02))
+- Final recreation with Firebase API interactions using Vue.js ([GitHub Link](https://github.com/K0BraKhan33/Module_5_MIKGAM156_JSE2407_D_Mikaeel-Gamieldien_JSF04_CapStone))
 
 Used to integrate different frameworks to understand the differences and similarities between various JavaScript and HTML frameworks while including interaction with a NoSQL database.
 
