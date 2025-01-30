@@ -37,7 +37,7 @@ Skills: JavaScript, Fullstack JavaScript, NoSQL databases, API use and creation,
 - **Tools:** Git, Visual Studio Code, Vercel
 
 ## Projects
-**JavaScript Frameworks Project**  
+**([JavaScript Frameworks Project](https://module-5-mikgam-156-jse-2407-d-mikaeel-ga-k0brakhan33s-projects.vercel.app/#/products))**  
 A Firebase project where I coded and recoded the same project three times in different frameworks:  
 - Alpine.js ([GitHub Link](https://github.com/K0BraKhan33/Module_2_MIKGAM156_JSE2407_D_Mikaeel-Gamieldien_JSF01))
 - Svelte.js ([GitHub Link](https://github.com/K0BraKhan33/Module_3_MIKGAM156_JSE2407_D_Mikaeel-Gamieldien_JSF02))
@@ -45,7 +45,7 @@ A Firebase project where I coded and recoded the same project three times in dif
 
 Used to integrate different frameworks to understand the differences and similarities between various JavaScript and HTML frameworks while including interaction with a NoSQL database.
 
-**KwaiMaiMai (A Recipe App)**  
+**([KwaiMaiMai](https://kwamaimai.vercel.app/)] (A Recipe App)**  
 This project was developed using Agile methodologies, with a team of 10 creating a full-stack JavaScript recipe app using Next.js and NoSQL.  
 **Role:** Junior Full Stack JavaScript Engineer  
 **Tasks:** Worked with APIs, server-side rendering, local components, sorting systems, manifest and service worker for offline use, and utilized MongoDB to create an interactable API for data storage and use. Acted as week one team lead, reporting to my and my team's coach about issues and conducting daily standups to keep the team updated and plan accordingly.
