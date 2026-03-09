@@ -1,85 +1,79 @@
-# **<span style="color:#0078D7;">Mikaeel Gamieldien</span>** - *Junior FullStack JavaScript Engineer*
-**Email:** Mikaeel.Gamieldien@gmail.com  
-**LinkedIn:** [Linkdin](https://www.linkedin.com/in/mikaeel-gamieldien-352903275/)
+# Hi there, I'm Mikaeel Gamieldien 👋 
+### Junior FullStack JavaScript Engineer | Agile Team Lead
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mikaeel-gamieldien-352903275/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Mikaeel.Gamieldien@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-Dedicated and professional team player with a strong academic background. Highly self-motivated, with the ability to manage independent projects efficiently and collaborate effectively within a team. Continuously eager to learn new skills and technologies.
+## 👨‍💻 About Me
+I am a dedicated **FullStack Developer** with a focus on modern JavaScript ecosystems. I specialize in building scalable web applications using **Next.js, Node.js, and MongoDB**. I have a proven track record of leading Agile teams and am currently spearheading digital initiatives as an Intern at **The Ajubatus Foundation**.
 
-## **<span style="color:#0078D7;">Education</span>**
-**Matric Bachelor Pass**  
-*Fairmont High School, Cape Town*  
-February 2017 - December 2022
+- 🔭 I’m currently working on: **Digital transformation projects at Ajubatus Foundation.**
+- 🌱 I’m currently learning: **Advanced System Architecture and Local AI implementation.**
+- 👯 I’m looking to collaborate on: **Open-source JavaScript projects and PWA development.**
+- ⚡ Fun fact: **I play Guitar and Bass, and I'm into 3D Printing.**
 
-## **<span style="color:#0078D7;">Certifications</span>**
-**JavaScript Development Certification**  
-*CodeSpace Academy, Cape Town, April - October 2023*  
-Skills: Node.js JavaScript, CSS, ReactJS
+---
 
-**JavaScript FullStack Developer Certification**  
-*CodeSpace Academy, Cape Town, April - December 2024*  
-Skills: JavaScript, Fullstack JavaScript, NoSQL databases, API use and creation, Next.js, Alpine.js, Svelte.js, Vue.js, Firebase, MongoDB
+## 🛠️ Tech Stack
 
-**Entry-Level Python Programmer Certification**  
-*OpenEDG Python Institute (Online), January - March 2023*
+### **Frontend & Frameworks**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## **<span style="color:#0078D7;">Relevant Coursework</span>**
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Software Engineering
-- Database Management Systems
-- Web Development
-- API and NoSQL
-- Agile Methodology
+### **Backend & Database**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-## **<span style="color:#0078D7;">Technical Skills</span>**
-- **Languages:** HTML, Basic Python, JavaScript, Delphi, CSS
-- **Frameworks:** Node.js, React.js, Next.js, Alpine.js, Svelte.js, Vue.js, Express.js, Tailwind CSS
-- **Database Systems:** NoSQL databases, API use and creation, Firebase, MongoDB
-- **Operating Systems:** Windows, Linux, MacOS
-- **Tools:** Git, Visual Studio Code, Vercel
+### **Tools & OS**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## **<span style="color:#0078D7;">Projects</span>**
-**[JavaScript Frameworks Project](https://module-5-mikgam-156-jse-2407-d-mikaeel-ga-k0brakhan33s-projects.vercel.app/#/products)**  
-A Firebase project where I coded and recoded the same project three times in different frameworks:  
-- Alpine.js ([GitHub Link](https://github.com/K0BraKhan33/Module_2_MIKGAM156_JSE2407_D_Mikaeel-Gamieldien_JSF01))
-- Svelte.js ([GitHub Link](https://github.com/K0BraKhan33/Module_3_MIKGAM156_JSE2407_D_Mikaeel-Gamieldien_JSF02))
-- Final recreation with Firebase API interactions using Vue.js ([GitHub Link](https://github.com/K0BraKhan33/Module_5_MIKGAM156_JSE2407_D_Mikaeel-Gamieldien_JSF04_CapStone))
+---
 
-Used to integrate different frameworks to understand the differences and similarities between various JavaScript and HTML frameworks while including interaction with a NoSQL database.
+## 📂 Featured Projects
 
-**[KwaiMaiMai](https://kwamaimai.vercel.app/)** (A Recipe App)  
-This project was developed using Agile methodologies, with a team of 10 creating a full-stack JavaScript recipe app using Next.js and NoSQL.  
-**Role:** Junior Full Stack JavaScript Engineer  
-**Tasks:** Worked with APIs, server-side rendering, local components, sorting systems, manifest and service worker for offline use, and utilized MongoDB to create an interactable API for data storage and use. Acted as week one team lead, reporting to my and my team's coach about issues and conducting daily standups to keep the team updated and plan accordingly.
+### 🍳 [KwaiMaiMai](https://kwamaimai.vercel.app/)
+**FullStack Recipe App (Next.js & MongoDB)**
+- **Role:** Agile Team Lead (10 members)
+- **Key Features:** Server-Side Rendering (SSR), Offline-first PWA (Service Workers), Custom APIs.
+- **Challenge:** Managing weekly sprint changes and high-pressure delivery cycles.
 
-Used to interrogate how we as a team could handle back-to-back weeks of nonstop pressure and changes. From a fullstack Next.js React project with in-team Team Leads, but added pressure of new work stacked on by the new week.
+### 🏗️ [JS Frameworks Comparative Project](https://module-5-mikgam-156-jse-2407-d-mikaeel-ga-k0brakhan33s-projects.vercel.app/#/products)
+**Comparative Framework Analysis**
+- Rebuilt the same application in **Alpine.js**, **Svelte**, and **Vue** to evaluate performance.
+- Integrated **Firebase** for real-time NoSQL data interactions.
 
-## **<span style="color:#0078D7;">Employment History</span>**
-**Part-Time Associate**  
-*A1 Car Wash, Cape Town, April - November 2019*  
-Responsibilities: Detailing vehicles, managing customer interactions, and ensuring high-quality service.
+---
 
-## **<span style="color:#0078D7;">Extracurricular Activities</span>**
-- Programming Club: Participated in coding challenges and team projects
-- Community Service: Volunteered in local community events and initiatives
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=K0BraKhan33&show_icons=true&theme=tokyonight" alt="Mikaeel's Stats" />
+</p>
 
-## **<span style="color:#0078D7;">Languages</span>**
-- English (Primary)
-- Afrikaans (Secondary)
+---
 
-## **<span style="color:#0078D7;">Interests & Hobbies</span>**
-- Programming
-- 3D Printing
-- History & Mythology
-- Traveling
-- Fitness & Gym
-- Coding, Gaming, and Reading
-- Playing Guitar & Bass
+## 📜 Certifications
+- **JavaScript FullStack Developer** | CodeSpace Academy (2024)
+- **JavaScript Development** | CodeSpace Academy (2023)
+- **Entry-Level Python Programmer** | OpenEDG Python Institute (2023)
 
-## **<span style="color:#0078D7;">General Information</span>**
-- **Date of Birth:** November 19, 2002
-- **Place of Birth:** Cape Town, South Africa
-- **Nationality:** South African
-- **Current Residence:** South Africa
-- **Criminal Record:** None
+---
+
+### 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/mikaeel-gamieldien-352903275/)
+- 📧 [Email Me](mailto:Mikaeel.Gamieldien@gmail.com)
