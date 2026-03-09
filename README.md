@@ -62,11 +62,12 @@ I am a dedicated **FullStack Developer** with a focus on modern JavaScript ecosy
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K0BraKhan33&show_icons=true&theme=tokyonight" alt="Mikaeel's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=K0BraKhan33&show_icons=true&theme=tokyonight&count_private=true" alt="Mikaeel's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0BraKhan33&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" />
 </p>
 
 ---
-
 ## 📜 Certifications
 - **JavaScript FullStack Developer** | CodeSpace Academy (2024)
 - **JavaScript Development** | CodeSpace Academy (2023)
