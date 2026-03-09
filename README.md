@@ -59,15 +59,6 @@ I am a dedicated **FullStack Developer** with a focus on modern JavaScript ecosy
 - Integrated **Firebase** for real-time NoSQL data interactions.
 
 ---
-
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K0BraKhan33&show_icons=true&theme=tokyonight&count_private=true" alt="Mikaeel's GitHub Stats" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0BraKhan33&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" height="192px" />
-</p>
-
----
 ## 📜 Certifications
 - **JavaScript FullStack Developer** | CodeSpace Academy (2024)
 - **JavaScript Development** | CodeSpace Academy (2023)
